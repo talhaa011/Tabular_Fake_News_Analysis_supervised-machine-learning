@@ -1,5 +1,3 @@
-# Tabular_Fake_News_Analysis_supervised-machine-learning
-
 # 📰 Fake News Detection
 
 This project focuses on building a machine learning model to detect fake news articles using natural language processing techniques. With the rising spread of misinformation, automatic fake news detection plays a crucial role in promoting truthful journalism and informed decision-making.
