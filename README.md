@@ -83,4 +83,4 @@ The project followed these steps:
 For any inquiries or collaborations, feel free to connect:
 
 - 📧 **Email**: muhammadtalha3589@gmail.com  
-- 💼 **LinkedIn**: [Muhammad Talha Sial](https://www.linkedin.com/in/muhammad-talha-sial/)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/muhammad-talha-sial/
